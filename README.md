@@ -1,4 +1,4 @@
-# THW1 REPO 
+# HW1 REPO 
 ![Static Badge](https://img.shields.io/badge/language-python-blue) 
 ![Static Badge](https://img.shields.io/badge/bsd-2-clause)
 ## License
