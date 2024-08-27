@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
 ## License
 
-![Python application](https://github.com/chris-hzc/510-s-Mickey/actions/workflows/python-app.yml/badge.svg)
+
 
 
 This project is licensed under the BSD-2-Clause License. 
