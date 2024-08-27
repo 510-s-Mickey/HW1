@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/platform-linux-blue)
 ## License
 
+![Python application](https://github.com/510-s-Mickey/HW1/actions/workflows/python-app.yml/badge.svg)
 
 
 
